@@ -19,44 +19,6 @@
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
  </p>
 
-
-# Github Stats:
-
- <br />
- 
-  <p align="center">
-  <a>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=yahya-degirmencioglu&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="yahya-degirmencioglu" />
-  </a>
-</p>
-
-  
-<br />
- 
- <p align="center">
-  <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yahya-degirmencioglu&theme=material-palenight&hide_border=false" alt="yahya-degirmencioglu" width="55%" />
-  
-  </a>
-</p>
- 
- <br />
-  
-  <p align="center">
-  <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahya-degirmencioglu&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="yahya-degirmencioglu" />
-  </a>
-</p>
- 
-<br />
-
-![](https://github-profile-trophy.vercel.app/?username=yahya-degirmencioglu&theme=dracula&no-frame=false&no-bg=false&margin-w=4)  
-  
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahya-degirmencioglu&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/yahya-degirmencioglu/github-readme-stats)
-
-
-
 # GitHub Stats:
 
 ## GitHub Statistics
@@ -79,3 +41,11 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahya-degirmencioglu&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="yahya-degirmencioglu" />
   </a>
 </p>
+
+# Trophies 🏆
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yahya-degirmencioglu&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
+<br />
+
+# Top Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yahya-degirmencioglu&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/yahya-degirmencioglu/github-readme-stats)
