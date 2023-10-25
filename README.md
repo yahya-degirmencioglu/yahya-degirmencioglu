@@ -10,14 +10,9 @@
 <img src="https://github.com/yahya-degirmencioglu/yahya-degirmencioglu/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
 
 # Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/yahya degirmencioglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yahya degirmencioglu" height="30" width="40" /></a>
-</p>
-
-<!--
-<details>
-  <summary>:zap: GitHub Stats</summary> 
--->
+[![Github Badge](https://img.shields.io/badge/-Github-%23333?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/yahya-degirmencioglu)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%23333?style=quare&labelColor&logo=linkedin&logoColor=blue&link=link)](https://linkedin.com/in/yahya-degirmencioglu)
+[![LinkedIn Badge](https://img.shields.io/badge/-Gmail-%23333?style=quare&labelColor&logo=gmail&logoColor=reed&link=link)](mailto:yahya38345@gmail.com)
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # 💻 Languages and Tools:
@@ -68,10 +63,6 @@
  <!--
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahya-degirmencioglu&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/yahya-degirmencioglu/github-readme-stats)
 -->
-
-[![Github Badge](https://img.shields.io/badge/-Github-%23333?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/yahya-degirmencioglu)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%23333?style=quare&labelColor&logo=linkedin&logoColor=blue&link=link)](https://linkedin.com/in/yahya-degirmencioglu)
-[![LinkedIn Badge](https://img.shields.io/badge/-Gmail-%23333?style=quare&labelColor&logo=gmail&logoColor=reed&link=link)](mailto:yahya38345@gmail.com)
 
 
 
