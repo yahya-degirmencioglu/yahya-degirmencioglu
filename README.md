@@ -34,8 +34,6 @@
 
   
 <br />
-
-
  
  <p align="center">
   <a>
@@ -44,11 +42,7 @@
   </a>
 </p>
  
-
- 
  <br />
- 
-  
   
   <p align="center">
   <a>
@@ -60,9 +54,8 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=yahya-degirmencioglu&theme=dracula&no-frame=false&no-bg=false&margin-w=4)  
   
- <!--
+
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahya-degirmencioglu&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/yahya-degirmencioglu/github-readme-stats)
--->
 
 
 
