@@ -57,3 +57,25 @@
 
 
 
+# GitHub Stats:
+
+## GitHub Statistics
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=yahya-degirmencioglu&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)
+
+<br />
+
+## Streak Statistics
+<p align="center">
+  <a>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yahya-degirmencioglu&theme=material-palenight&hide_border=false" alt="yahya-degirmencioglu" width="55%" />
+  </a>
+</p>
+
+<br />
+
+## Most Used Languages
+<p align="center">
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahya-degirmencioglu&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="yahya-degirmencioglu" />
+  </a>
+</p>
