@@ -22,7 +22,11 @@
 # GitHub Stats:
 
 ## GitHub Statistics
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=yahya-degirmencioglu&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)
+<p align="center">
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yahya-degirmencioglu&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" />
+  </a>
+</p>
 
 <br />
 
@@ -43,4 +47,8 @@
 </p>
 
 # Trophies 🏆
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yahya-degirmencioglu&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <a>
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=yahya-degirmencioglu&theme=dracula&no-frame=false&no-bg=false&margin-w=4" />
+  </a>
+</p>
