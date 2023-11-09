@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4E16AQHbn7MTxXZJMQ/profile-displaybackgroundimage-shrink_350_1400/0/1692101772859?e=1703721600&v=beta&t=A0AH5P7fAAfgosytKq1NficlpKnb8_uWLYuXMVGeprc)
+![MasterHead](https://media.licdn.com/dms/image/D4E16AQFlcNX6v4GZ1A/profile-displaybackgroundimage-shrink_350_1400/0/1699533679118?e=1704931200&v=beta&t=_AKM5zbedF38qqUJrCtE1WiQKFeuXaYtDtE4v4poHec)
 <img src="https://komarev.com/ghpvc/?username=yahya-degirmencioglu&&style=plastics&&color=yellow" align="right"/>
   
 <div align="center">
