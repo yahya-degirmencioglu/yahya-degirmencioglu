@@ -47,10 +47,3 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahya-degirmencioglu&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="yahya-degirmencioglu" />
   </a>
 </p>
-
-# Trophies 🏆
-<p align="center">
-  <a>
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=yahya-degirmencioglu&theme=dracula&no-frame=false&no-bg=false&margin-w=4" />
-  </a>
-</p>
