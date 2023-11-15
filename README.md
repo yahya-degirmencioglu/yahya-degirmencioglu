@@ -10,6 +10,7 @@
 # Connect with me:
 [![Github Badge](https://img.shields.io/badge/-Github-%23333?style=flat&labelColor=000&logo=Github&logoColor=white&link=https://github.com/yahya-degirmencioglu)](https://github.com/yahya-degirmencioglu)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%23333?style=flat&labelColor=000&logo=linkedin&logoColor=blue&link=https://linkedin.com/in/yahya-degirmencioglu)](https://linkedin.com/in/yahya-degirmencioglu)
+[![Xing Badge](https://img.shields.io/badge/-Xing-%23333?style=flat&labelColor=000&logo=xing&logoColor=green&link=https://www.xing.com/profile/Yahya_Degirmencioglu)](https://www.xing.com/profile/Yahya_Degirmencioglu)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-%23333?style=flat&labelColor=000&logo=gmail&logoColor=reed&link=mailto:yahya38345@gmail.com)](mailto:yahya38345@gmail.com)
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
