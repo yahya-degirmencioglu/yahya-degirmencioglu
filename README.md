@@ -8,6 +8,7 @@
 </div>
 
 # Connect with me:
+[![Linktree Badge](https://img.shields.io/badge/-Linktree-%23333?style=flat&labelColor=000&logo=Linktree&logoColor=green&link=https://linktr.ee/yahya.degirmencioglu)](https://linktr.ee/yahya.degirmencioglu)
 [![Github Badge](https://img.shields.io/badge/-Github-%23333?style=flat&labelColor=000&logo=Github&logoColor=white&link=https://github.com/yahya-degirmencioglu)](https://github.com/yahya-degirmencioglu)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%23333?style=flat&labelColor=000&logo=linkedin&logoColor=blue&link=https://linkedin.com/in/yahya-degirmencioglu)](https://linkedin.com/in/yahya-degirmencioglu)
 [![Xing Badge](https://img.shields.io/badge/-Xing-%23333?style=flat&labelColor=000&logo=xing&logoColor=green&link=https://www.xing.com/profile/Yahya_Degirmencioglu)](https://www.xing.com/profile/Yahya_Degirmencioglu)
